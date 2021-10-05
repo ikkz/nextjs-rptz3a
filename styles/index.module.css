@@ -1,0 +1,24 @@
+.page {
+  padding: 16px;
+}
+
+.urlInput {
+  width: 100%;
+  resize: none;
+  height: 100px;
+}
+
+.filename {
+  width: 100%;
+  display: flex;
+}
+
+.filename > input {
+  flex: 1;
+  margin-right: 8px;
+}
+
+.downloadButton {
+  width: 100%;
+  margin-top: 16px;
+}
